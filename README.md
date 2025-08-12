@@ -4,8 +4,8 @@ Download the news of today from NOS Teletekst and animate it as an early 1980s D
 D U T C H
 
 [Wat?]
-Dit programma is geschreven in de programmeertaal QB64.
-Het simuleert een Nieuws voor Doven en Slechthorenden-uitzending uit 1984/1985.
+- Dit programma is geschreven in de programmeertaal QB64.
+- Het simuleert een Nieuws voor Doven en Slechthorenden-uitzending uit 1984/1985.
 
 [Dit heeft u nodig]
 - Powershell (zit standaard in nieuwe Windows-versies).
